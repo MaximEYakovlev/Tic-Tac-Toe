@@ -1,5 +1,5 @@
-import { Board } from "./components/Board.jsx";
+import { Game } from "./components/Game.jsx";
 
 export default function App() {
-  return <Board />;
+  return <Game />;
 }
